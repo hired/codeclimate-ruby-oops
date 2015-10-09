@@ -1,0 +1,8 @@
+{
+  "include_paths":[
+    "code/**/*"
+  ],
+  "exclude_paths":[
+    "code/excluded/*"
+  ]
+}

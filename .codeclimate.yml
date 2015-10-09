@@ -1,0 +1,12 @@
+---
+engines:
+  rubocop:
+    enabled: true
+  ruby-oops:
+    enabled: true
+ratings:
+  paths:
+    - "*.rb"
+exclude_paths:
+  - spec/**/*
+  - test/**/*

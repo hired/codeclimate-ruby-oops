@@ -1,0 +1,10 @@
+{
+  "name": "oops-rb",
+  "description": "Oops-rb checks for debug outputs and merge / rebase conflicts. It's meant to catch stuff you forgot to take out before committing.",
+  "maintainer": {
+    "name": "Andrew Evans (Hired, Inc)",
+    "email": "andrew@hired.com",
+  },
+  "version": "v0.1",
+  "spec_version": "0.0.1",
+}
